@@ -50,6 +50,7 @@ nav {
 
 .product{
     background-color: rgb(245, 245, 245);
+    height: 80dvh;
 }
 
 @media (max-width: 1200px ){
